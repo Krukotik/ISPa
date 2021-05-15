@@ -1,0 +1,16 @@
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 3\Prog-3\Prog-3\bin\Debug\net5.0\Prog-3.exe
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 3\Prog-3\Prog-3\bin\Debug\net5.0\Prog-3.deps.json
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 3\Prog-3\Prog-3\bin\Debug\net5.0\Prog-3.runtimeconfig.json
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 3\Prog-3\Prog-3\bin\Debug\net5.0\Prog-3.runtimeconfig.dev.json
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 3\Prog-3\Prog-3\bin\Debug\net5.0\Prog-3.dll
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 3\Prog-3\Prog-3\bin\Debug\net5.0\ref\Prog-3.dll
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 3\Prog-3\Prog-3\bin\Debug\net5.0\Prog-3.pdb
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 3\Prog-3\Prog-3\obj\Debug\net5.0\Prog-3.csprojAssemblyReference.cache
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 3\Prog-3\Prog-3\obj\Debug\net5.0\Prog-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 3\Prog-3\Prog-3\obj\Debug\net5.0\Prog-3.AssemblyInfoInputs.cache
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 3\Prog-3\Prog-3\obj\Debug\net5.0\Prog-3.AssemblyInfo.cs
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 3\Prog-3\Prog-3\obj\Debug\net5.0\Prog-3.csproj.CoreCompileInputs.cache
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 3\Prog-3\Prog-3\obj\Debug\net5.0\Prog-3.dll
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 3\Prog-3\Prog-3\obj\Debug\net5.0\ref\Prog-3.dll
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 3\Prog-3\Prog-3\obj\Debug\net5.0\Prog-3.pdb
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 3\Prog-3\Prog-3\obj\Debug\net5.0\Prog-3.genruntimeconfig.cache
