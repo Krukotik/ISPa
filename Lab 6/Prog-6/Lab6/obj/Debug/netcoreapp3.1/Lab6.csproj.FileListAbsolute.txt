@@ -1,0 +1,25 @@
+C:\Users\Jarvis\source\repos\ISP\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfoInputs.cache
+C:\Users\Jarvis\source\repos\ISP\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfo.cs
+C:\Users\Jarvis\source\repos\ISP\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Jarvis\source\repos\ISP\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.exe
+C:\Users\Jarvis\source\repos\ISP\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.deps.json
+C:\Users\Jarvis\source\repos\ISP\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.json
+C:\Users\Jarvis\source\repos\ISP\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.dev.json
+C:\Users\Jarvis\source\repos\ISP\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.dll
+C:\Users\Jarvis\source\repos\ISP\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.pdb
+C:\Users\Jarvis\source\repos\ISP\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.dll
+C:\Users\Jarvis\source\repos\ISP\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.pdb
+C:\Users\Jarvis\source\repos\ISP\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.genruntimeconfig.cache
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 6\Prog-6\Lab6\bin\Debug\netcoreapp3.1\Lab6.exe
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 6\Prog-6\Lab6\bin\Debug\netcoreapp3.1\Lab6.deps.json
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 6\Prog-6\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.json
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 6\Prog-6\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.dev.json
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 6\Prog-6\Lab6\bin\Debug\netcoreapp3.1\Lab6.dll
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 6\Prog-6\Lab6\bin\Debug\netcoreapp3.1\Lab6.pdb
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 6\Prog-6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csprojAssemblyReference.cache
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 6\Prog-6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfoInputs.cache
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 6\Prog-6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfo.cs
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 6\Prog-6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 6\Prog-6\Lab6\obj\Debug\netcoreapp3.1\Lab6.dll
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 6\Prog-6\Lab6\obj\Debug\netcoreapp3.1\Lab6.pdb
+C:\Users\AsvEkS\Desktop\053506\C#\Lab 6\Prog-6\Lab6\obj\Debug\netcoreapp3.1\Lab6.genruntimeconfig.cache
